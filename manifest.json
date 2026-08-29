@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Delivery Direto",
+  "version": "1.0",
+  "description": "Avisa se o restaurante tem canal direto no iFood.",
+  "permissions": ["activeTab"],
+  "host_permissions": [
+    "*://*.ifood.com.br/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["*://*.ifood.com.br/delivery/*"],
+      "js": ["content.js"],
+      "run_at": "document_end"
+    }
+  ]
+}
