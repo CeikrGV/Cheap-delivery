@@ -45,7 +45,7 @@ Um MVP (Produto Mínimo Viável) composto por uma extensão de navegador e uma A
 3. Clique em Carregar sem compactação e selecione a pasta onde estão os arquivos ````manifest.json```` e ````content.js````.
 
 
-🛣️ Roadmap e Próximos Passos
+# 🛣️ Roadmap e Próximos Passos
 
 O backlog do projeto e o mapeamento de novas funcionalidades estão sendo gerenciados no Taiga.io para facilitar a divisão de tarefas em sprints ágeis. Os próximos passos incluem:
 
