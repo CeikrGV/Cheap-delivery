@@ -29,4 +29,4 @@ Um MVP (Produto Mínimo Viável) composto por uma extensão de navegador e uma A
 ### 1. Configurando a API (Back-end)
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/api-delivery-direto.git](https://github.com/SEU_USUARIO/api-delivery-direto.git)
+   git clone [https://github.com/CeikrGV/api-delivery-direto.git](https://github.com/CeikrGV/api-delivery-direto.git)
